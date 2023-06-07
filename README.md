@@ -1,2 +1,2 @@
 # springboot-jpa
-Projeto do Curso Java - Webservice com Springboot e JPA/Hibernate
+Projeto de Webservice com Springboot e JPA/Hibernate
